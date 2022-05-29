@@ -4,7 +4,7 @@ Get high-accuracy, developer-friendly **automatic license plate recognition** ([
 Our machine-learning software:
 
 - Works on **dark, low-res, blurry images** and tough angles, all vehicle types, etc.  
-- Decodes **license plate** , vehicle type (e.g. SUV, van, pickup truck), [**vehicle make model**](https://platerecognizer.com/vehicle-make-model-recognition-with-color/?utm_source=github&amp;utm_medium=website) (e.g. Honda Accord), color, and orientation. Ignores bumper stickers, car signs, etc.
+- Decodes **license plate** , vehicle type (e.g. SUV, van, pickup truck),  (e.g. Honda Accord), color, and orientation. Ignores bumper stickers, car signs, etc.
 
 
 Using this Android Mobile App, you can easily take a photo with your phone camera and the app will decode the license plate seen in the photo.
